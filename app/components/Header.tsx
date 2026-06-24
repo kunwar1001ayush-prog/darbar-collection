@@ -119,9 +119,9 @@ export default function Header({
               DARBAR 
             </span>
 
-            <span className="text-[#C9A227] text-2xl">
+            {/* <span className="text-[#C9A227] text-2xl">
               ✦
-            </span>
+            </span> */}
 
             <span className="font-serif-display text-2xl md:text-3xl italic font-light">
               COLLECTION
